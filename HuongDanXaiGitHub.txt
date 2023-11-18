@@ -54,6 +54,6 @@ git push origin Tên_Nhánh
 
 ###Chỉnh 1 nhánh thành mặc định:
 -Chỉnh nhánh:
-git checkout -b develop
+git checkout -b <develop>
 -Dùng đổi tên nhánh và đồng thời thiết lập thành nhánh chính:
 git branch -m <tên_nhánh_mới> <tên_nhánh_cũ>
