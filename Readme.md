@@ -1,3 +1,5 @@
+<!-- Mở cho cmt
+
 Tiêu đề và Phụ tiêu đề:
 
 # Tiêu đề chính
@@ -54,4 +56,4 @@ markdown
 
 > Đây là một chú thích
 
-<!-- Đây là một ghi chú -->
+<!-- Đây là một ghi chú --> 
